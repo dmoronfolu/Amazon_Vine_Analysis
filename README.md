@@ -25,7 +25,8 @@ https://github.com/dmoronfolu/Amazon_Vine_Analysis/blob/810ec99e7a40a119a0a1efc4
 
 https://github.com/dmoronfolu/Amazon_Vine_Analysis/blob/810ec99e7a40a119a0a1efc41524aae1639c4e70/Resources/Non-Vine%20members%205-star%20reviews.png
 
-Summary
+Summary:
+
 Based on our findings, we can conclude that there isn’t any positivity bias for reviews in the Vine program as 5-star reviews for Vine members (36%) is less than the 5-star reviews for non-Vine members (47%). In fact, there were only 613 Vine members reviews while non-Vine members total reviews was 64,968 and 30,543 out of that were 5-star reviews. 
 
 Additionally, we can also calculate measures of Central Tendency by calculating the mean, median and mode of the 5-star reviews to determine how skewed the dataset will be. 
