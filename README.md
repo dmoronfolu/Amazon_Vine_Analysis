@@ -10,20 +10,23 @@ In the second deliverable, we created a DataFrame for the Vine Table, and filter
 Results: 
 
 	How many Vine reviews and non-Vine reviews were there? According to our data, there were 613 paid vine reviews and 64,968 unpaid non-Vine reviews
- https://github.com/dmoronfolu/Amazon_Vine_Analysis/blob/810ec99e7a40a119a0a1efc41524aae1639c4e70/Resources/Non-Vine%20members%20total%20review.png
- 
- https://github.com/dmoronfolu/Amazon_Vine_Analysis/blob/810ec99e7a40a119a0a1efc41524aae1639c4e70/Resources/Vine%20Member%20reviews.png
+
+ <img width="435" alt="Non-Vine members total review" src="https://user-images.githubusercontent.com/85265504/152093222-18cc1590-bb9c-4851-ab7d-5a0500eb6bf9.png">
+
+<img width="723" alt="Non-Vine members 5-star reviews" src="https://user-images.githubusercontent.com/85265504/152093242-5e3f4ce2-3980-4edb-bfc6-441343e88db2.png">
  
 	How many Vine reviews were 5-stars? How many non-Vine reviews were 5 stars? 222 Vine reviews were 5-stars and 30,543 non-Vine reviews were 5-stars
- https://github.com/dmoronfolu/Amazon_Vine_Analysis/blob/810ec99e7a40a119a0a1efc41524aae1639c4e70/Resources/Non-Vine%20members%205-star%20reviews.png
+
+ <img width="713" alt="NonVine Member 5-star reviews" src="https://user-images.githubusercontent.com/85265504/152093488-7c5c60d3-5a3a-440b-a770-5b79f8f26615.png">
  
- https://github.com/dmoronfolu/Amazon_Vine_Analysis/blob/810ec99e7a40a119a0a1efc41524aae1639c4e70/Resources/Vine%20Member%205Star%20review.png
- 
+ <img width="656" alt="Vine Member 5Star review" src="https://user-images.githubusercontent.com/85265504/152093570-97643782-734a-499d-9827-7fad7c696372.png">
+
 
 	What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars? 36.22% of Vine reviews were 5-stars while 47.01% of the non-Vine reviews were 5-stars
-https://github.com/dmoronfolu/Amazon_Vine_Analysis/blob/810ec99e7a40a119a0a1efc41524aae1639c4e70/Resources/Vine%20reviews%20percentage.png
 
-https://github.com/dmoronfolu/Amazon_Vine_Analysis/blob/810ec99e7a40a119a0a1efc41524aae1639c4e70/Resources/Non-Vine%20members%205-star%20reviews.png
+<img width="711" alt="Vine reviews percentage" src="https://user-images.githubusercontent.com/85265504/152093621-e7f7f608-b26b-4763-bf5e-dd2546f28292.png">
+
+<img width="713" alt="NonVine Member 5-star reviews" src="https://user-images.githubusercontent.com/85265504/152093658-f72342f3-c3b4-4d2f-b2c9-4a5ad0c7f8a2.png">
 
 Summary:
 
